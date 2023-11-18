@@ -1,7 +1,6 @@
 from django.utils import timezone
 from django.shortcuts import render
 from .models import Post
-import asyncio
 
 
 
